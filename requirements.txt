@@ -1,0 +1,5 @@
+pylibdmtx
+pillow
+opencv-python
+pandas
+numpy
